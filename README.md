@@ -37,7 +37,7 @@
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santoshadhikary&theme=github_dark"/>
 
 ## 📈 Contribution Graph:
-[![Sangam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codersangam&theme=tokyo-night)](https://github.com/codersangam/github-readme-activity-graph)
+[![SANTOSH's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codersangam&theme=tokyo-night)](https://github.com/codersangam/github-readme-activity-graph)
 
 
 
