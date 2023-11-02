@@ -1,7 +1,7 @@
 <img height="200px" src="neon_logo.gif"/>
 
 # 💫 About Me:
-👀 I’m interested in developing mobile apps, AI and newer Technologies.<br>🌱 I’m currently learning Flutter.<br>💬 Ask me about Java, Python, Laravel or any tech-related stuff.<br>📫 How to reach me: Portfolio - @santoshadhikary<br>⚡ Fun fact: I nearly spent most of the time to learn new Technologies.<br>🔫 My Weapon: MacBook Air
+👀 I’m interested in developing mobile apps, AI and newer Technologies.<br>🌱 I’m currently learning Flutter.<br>💬 Ask me about Dart, Flutter  any tech-related stuff.<br>📫 How to reach me: Portfolio - @santoshadhikary<br>⚡ Fun fact: I nearly spent most of the time to learn new Technologies.<br>🔫 My Weapon: MacBook Air
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=santoshadhikary&color=orange&style=flat-square" alt="santoshadhikary" /> 
@@ -36,8 +36,7 @@
 <br>
 <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=santoshadhikary&theme=github_dark"/>
 
-## 📈 Contribution Graph:
-[![SANTOSH's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=codersangam&theme=tokyo-night)](https://github.com/codersangam/github-readme-activity-graph)
+
 
 
 
