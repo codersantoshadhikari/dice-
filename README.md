@@ -10,7 +10,7 @@
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@santoshadhikary)
-[![Discord](https://img.shields.io/badge/Discord-%234751C4.svg?logo=Discord&logoColor=white)](https://discord.gg/rpT4J7YMGA)
+[![Discord](https://img.shields.io/badge/Discord-%234751C4.svg?logo=Discord&logoColor=white)](https://discord.gg/santosh)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/santosh.adhikary) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/santoshadhikary) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santosh-adhikari-b24324265/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22838702/santosh-adhikari) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/santoshadhikary)
 
 # 💻 Tech Stack:
